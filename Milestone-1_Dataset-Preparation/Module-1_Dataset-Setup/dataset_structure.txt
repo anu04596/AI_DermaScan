@@ -1,0 +1,21 @@
+dataset/
+│
+├── wrinkles/
+│   ├── img_001.jpg
+│   ├── img_002.jpg
+│   └── ...
+│
+├── dark_spots/
+│   ├── img_101.jpg
+│   ├── img_102.jpg
+│   └── ...
+│
+├── puffy_eyes/
+│   ├── img_201.jpg
+│   ├── img_202.jpg
+│   └── ...
+│
+└── clear_skin/
+    ├── img_301.jpg
+    ├── img_302.jpg
+    └── ...
