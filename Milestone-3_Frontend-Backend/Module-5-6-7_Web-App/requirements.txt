@@ -1,0 +1,8 @@
+streamlit==1.52.1
+tensorflow==2.20.0
+numpy>=1.26.0
+pandas==2.3.3
+opencv-python-headless==4.11.0.86
+Pillow
+matplotlib==3.10.8
+rich==13.7.1
