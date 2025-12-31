@@ -132,21 +132,18 @@ Web Interface Visualization
   - Puffy Eyes  
   - Clear Skin  
 - Class distribution was balanced to reduce bias during training.
-- The dataset is **not included in the repository** due to size constraints.
-- Dataset structure and sample visualizations are provided for reference.
+
 
 ---
 
 ## ⚠️ Limitations
 - Haar Cascade face detection may struggle under extreme lighting conditions or non-frontal face poses.
 - Model performance depends on the quality and diversity of the scraped dataset.
-- The system currently supports **image-based analysis only** (no real-time video processing).
 - Deployment constraints limited the use of alternative face detection frameworks.
 
 ---
 
 ## 🚀 Future Scope
-- Integration of real-time webcam-based facial skin analysis.
 - Expansion to additional skin conditions and finer-grained classification.
 - Optimization of the model for faster inference and deployment.
 - Integration with a full-stack web application for broader accessibility.
